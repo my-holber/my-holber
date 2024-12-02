@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=my-holber&show_icons=true&locale=en&layout=compact" alt="my-holber" /></p>
+
 <p>
   <img align="left" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=my-holber&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide=html,css&langs_count=6&custom_title=Languages%20I%20Love&card_width=420" 
