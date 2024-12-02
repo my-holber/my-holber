@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=my-holber&show_icons=true&locale=en&layout=compact&theme=radical&hide=css,html,scss&langs_count=10&custom_title=My%20Favorite%20Languages&card_width=450&hide_progress=true" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=my-holber&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide=html,css&langs_count=6&custom_title=Languages%20I%20Love&card_width=420" 
        alt="my-holber" />
 </p>
+
 
